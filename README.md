@@ -1,3 +1,1 @@
-# hello-world
-
-Hi, I made some changes.
+A place where I will store ideas, resources, or even share and discuss things with others.
