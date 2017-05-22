@@ -1,6 +1,6 @@
-# Seriously, how many CSS Media Query breakpoints shou I make?? 
+# Seriously, how many Media Query breakpoints should I put in css?? 
 
-**In Bootstrap**, they use the following media queries in their Less files to create the key breakpoints in their grid system:
+**In Bootstrap**http://getbootstrap.com/css/, they use the following media queries in their Less files to create the key breakpoints in their grid system:
 
     /* Extra small devices (phones, less than 768px) */
     /* No media query since this is the default in Bootstrap */
@@ -22,6 +22,7 @@ They occasionally expand on these media queries to include a max-width to limit 
     @media (min-width: @screen-lg-min) { ... }
 
 
-While I was 
+I also found an image in **David Gilbertson's** https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862 article presenting different screen sizes with commonly-used breakpoints name like "portrait tablet":
+
 ![Image of different screen sizes](pics/screenSizes.png)
 
