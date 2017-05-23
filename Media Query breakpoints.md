@@ -23,7 +23,7 @@ They occasionally expand on these media queries to include a max-width to limit 
 
 
 
-I also found a pretty good image in [**avid Gilbertson's** ](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862) article presenting different screen sizes with commonly-used name like "portrait tablet":laughing::
+I also found a pretty good image in [**David Gilbertson's** ](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862) article presenting different screen sizes with commonly-used name like "portrait tablet":laughing::
 
 ![Image of different screen sizes](pics/screenSizes.png)
 
