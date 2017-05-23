@@ -1,4 +1,4 @@
-# hello-world
+# Tech Blog
 
 This is my first repository - to understand how github works.:smiling_imp:
 
