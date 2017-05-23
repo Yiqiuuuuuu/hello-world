@@ -32,7 +32,7 @@ Like Josh Brewer said:
 > If you think responsive's simple, I feel bad for you son. We got 99 viewports, but the iPhone's just one.
 > - —[Josh Brewer, March 10, 2010](https://twitter.com/jbrewer/status/178528003402379265)
 
-In the market, there are various screen views. If I add breakpoints for every single screen size, this woulb be a little bit overwhelming.
+In the market, there are various screen views. If I add breakpoints for every single screen size, this would be a little bit overwhelming.
 
 There is a point of view I feel like to be a good solution and it seems to be approved by plenty of people (an answer on [stact overflow](https://stackoverflow.com/questions/16443380/common-css-media-queries-break-points)):
 > Rather than try to target @media rules at specific devices, it is arguably more practical to base them on your particular layout instead. That is, gradually **narrow your desktop browser window and observe the natural breakpoints for your content**. It's different for every site. **As long as the design flows well at each browser width, it should work pretty reliably on any screen size** (and there are lots and lots of them out there.)
