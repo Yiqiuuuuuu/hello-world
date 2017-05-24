@@ -1,3 +1,5 @@
 # Programming languages used in most popular websites
 
-![Programming languages used in most popular websites (from wikipedia)](pics/WebsitesProgrammingLanguages.png)
+ (Image from wikipedia)
+
+![Programming languages used in most popular websites](pics/WebsitesProgrammingLanguages.png)
