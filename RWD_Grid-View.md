@@ -7,7 +7,7 @@ Forget about Bootstrap, if I want to dsign a responsive website, what technique 
 In CSS3, I can use the **@media rule** to cooperate with the grids I set.
 CSS3 media queries are supported in :eyes:( [the image is from here](https://www.w3schools.com/css/css3_mediaqueries.asp) ):
 
-![Image of the browser versions supporting @media rule](pics/browsers support media rule.png)
+![Image of the browser versions supporting @media rule](pics/browsersSupportMediaRule.png)
 
 I found a good example at W3C school showing how to use grid-view & media queries to design a responsive web page:eyes:: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
