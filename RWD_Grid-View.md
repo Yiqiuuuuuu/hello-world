@@ -13,6 +13,6 @@ I found a good example at W3C school showing how to use grid-view & media querie
 
 After learning the above example, :laughing:I developed a responsive personal web page based on grid-view technique: https://github.com/Yiqiuuuuuu/grid-view-based-responsive-page
 
-![desktopView](pics/desktopView.png) ![tabletView](pics/tabletView.png) ![phoneView](pics/phoneView.png)
+![desktopView](pics/desktopView.png) ![tablet-phoneView](pics/tablet-phoneView.png)
 
 Even though later on I might probably use Boostrap, I don't want to forgrt this basic grid-view knowledge. SO I kept the projrct here, and I can review my code at any time.
