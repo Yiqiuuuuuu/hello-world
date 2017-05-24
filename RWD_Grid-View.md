@@ -11,7 +11,7 @@ CSS3 media queries are supported in :eyes:( [the image is from here](https://www
 
 I found a good example at W3C school showing how to use grid-view & media queries to design a responsive web page:eyes:: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
-After learning the above example, :laughing:I developed a responsive personal web page based on grid-view technique: https://github.com/Yiqiuuuuuu/grid-view-based-responsive-page
+After learning the above example, :laughing:I developed a responsive personal web page based on grid-view technique. See **[My repository:grid-view-based-responsive-page](https://github.com/Yiqiuuuuuu/grid-view-based-responsive-page)**
 
 ![desktopView](pics/desktopView.png) ![tablet-phoneView](pics/tablet-phoneView.png)
 
