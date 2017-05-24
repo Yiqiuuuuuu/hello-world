@@ -15,4 +15,4 @@ After learning the above example, :laughing:I developed a responsive personal we
 
 ![desktopView](pics/desktopView.png) ![tablet-phoneView](pics/tablet-phoneView.png)
 
-Even though later on I might probably use Boostrap, I don't want to forgrt this basic grid-view knowledge. SO I kept the projrct here, and I can review my code at any time.
+I might probably use Boostrap, butI don't want to forget this basic grid-view knowledge. SO I kept the projrct here, and I can review my code at any time.
