@@ -13,6 +13,7 @@ npm install selenium-webdriver
 5. Try to test to make sure everything is working.
 * Create a new file inside your project directory called google_test.js:
 * Give it the following contents, then save it:<br>
+  
   ```
   var webdriver = require('selenium-webdriver'),
     By = webdriver.By,
@@ -39,7 +40,7 @@ driver.sleep(2000).then(function() {
 driver.quit();
 ```
 
-* In terminal, make sure you are inside your project folder, then enter the following command:
+* In terminal, make sure you are inside your project folder, then enter the following command:<br>
 
 ```
 node google_test
