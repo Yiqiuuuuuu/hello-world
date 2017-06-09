@@ -9,12 +9,12 @@
 * Step3: click on "system" section<br>
 ![Image of "system"](pics/system.PNG)
 
-* Step4: select "About" in the left menu bar, and then click "System info" on the right side
+* Step4: select "About" in the left menu bar, and then click "System info" on the right side<br>
 ![Image of "About"](pics/about.PNG)
 
-* Step5: click "Advanced system settings" on the left side
+* Step5: click "Advanced system settings" on the left side<br>
 ![Image of "Advanced system settings"](pics/advanced.PNG)
 
-* Step6: click on "Enviroment Variables" 
+* Step6: click on "Enviroment Variables"<br> 
 ![Image of "Advanced system settings"](pics/environment-variables.PNG)
 
