@@ -18,3 +18,12 @@
 * Step6: click on "Enviroment Variables"<br> 
 ![Image of "Advanced system settings"](pics/environment-variables.PNG)
 
+* Step7: Edit Path<br>
+![Image of "Edit Path"](pics/edit-path.PNG)
+
+* Step8: Add the path D:\workspace\BrowserDrivers. This is the absolute path from the root of my hard disk and the location of my chromedriver and geckodriver.<br>
+![Image of "Add Path"](pics/add-path.PNG)
+
+
+
+
