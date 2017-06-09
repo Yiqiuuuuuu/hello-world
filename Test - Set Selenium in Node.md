@@ -63,7 +63,7 @@ An instance of chrome should automatically open up. Google should automatically 
 "webdriver" should be entered in the search box of google.  The search button should be then clicked.
 WebDriver will then wait for 2 seconds; the document title is then accessed, and if it is "webdriver - Google Search", we will return a message to claim the test is passed. WebDriver will then close down the chrome instance and stop.
 
-It's like the computer is haunted....:see_no_evil:
+It's like the computer is haunted....:scream_cat:
 
 
 Notice: Selenium Version: 3.4.0 (the newest release when i write this blog) does not go well with geckodriver when I run google_test.js.
