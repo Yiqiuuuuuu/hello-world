@@ -7,6 +7,7 @@ npm install selenium-webdriver
 ```
 
 3. Download browser drivers from [selenium-webdriver](https://www.npmjs.com/package/selenium-webdriver) pages (see the table in the first section) for different browsers. I put all downloaded drivers in D:\workspace\BrowserDrivers.<br>
+Format: ![browser drivers to be downloaded](pics/browserDeivers.PNG)
 
 4. Set the path of the drivers. See my another tech-blog: [Test - How to set PATH variable on Windows10?](https://github.com/Yiqiuuuuuu/tech-blog/blob/master/Test%20-%20Set%20PATH%20variable.md)<br>
 
