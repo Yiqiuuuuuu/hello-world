@@ -11,8 +11,8 @@ npm install selenium-webdriver
 4. Set the path of the drivers. See my another tech-blog: [Test - How to set PATH variable on Windows10?](https://github.com/Yiqiuuuuuu/tech-blog/blob/master/Test%20-%20Set%20PATH%20variable.md)<br>
 
 5. Try to test to make sure everything is working.
-  * Create a new file inside your project directory called google_test.js:
-  * Give it the following contents, then save it:<br>
+* Create a new file inside your project directory called google_test.js:
+* Give it the following contents, then save it:<br>
   ```
   var webdriver = require('selenium-webdriver'),
     By = webdriver.By,
@@ -38,7 +38,10 @@ driver.sleep(2000).then(function() {
 
 driver.quit();
 ```
-
+* In terminal, make sure you are inside your project folder, then enter the following command:
+```
+node google_test
+```
 
 
 
