@@ -1,9 +1,9 @@
 # Test - How to set PATH variable on Windows10?
 
-* Step1: left click on "Start" icon at bottom left corner 
+* Step1: left click on "Start" icon at bottom left corner<br> 
 ![Image of "Start"](pics/start.PNG)
 
-* Step2: click "settings" icon
+* Step2: click "settings" icon<br>
 ![Image of "Settings"](pics/setting.PNG)
 
 * Step3: click on "system" section
