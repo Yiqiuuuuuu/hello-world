@@ -38,7 +38,9 @@ driver.sleep(2000).then(function() {
 
 driver.quit();
 ```
+
 * In terminal, make sure you are inside your project folder, then enter the following command:
+
 ```
 node google_test
 ```
