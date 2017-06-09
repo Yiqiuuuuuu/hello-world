@@ -6,7 +6,7 @@
 * Step2: click "settings" icon<br>
 ![Image of "Settings"](pics/setting.PNG)
 
-* Step3: click on "system" section
+* Step3: click on "system" section<br>
 ![Image of "system"](pics/system.PNG)
 
 * Step4: select "About" in the left menu bar, and then click "System info" on the right side
