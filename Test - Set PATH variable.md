@@ -16,5 +16,5 @@
 ![Image of "Advanced system settings"](pics/advanced.PNG)
 
 * Step6: click on "Enviroment Variables" 
-![Image of "Advanced system settings"](pics/environment variables.PNG)
+![Image of "Advanced system settings"](pics/environment-variables.PNG)
 
