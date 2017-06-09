@@ -14,14 +14,13 @@ npm install selenium-webdriver
 * Create a new file inside your project directory called google_test.js:
 * Give it the following contents, then save it:<br>
   
-  ```
-  var webdriver = require('selenium-webdriver'),
-    By = webdriver.By,
-    until = webdriver.until;
-
+```
+var webdriver = require('selenium-webdriver'),
+  By = webdriver.By,
+  until = webdriver.until;
 var driver = new webdriver.Builder()
-    .forBrowser('firefox')
-    .build();
+  .forBrowser('firefox')
+  .build();
 
 driver.get('http://www.google.com');
 driver.findElement(By.name('q')).sendKeys('webdriver');
