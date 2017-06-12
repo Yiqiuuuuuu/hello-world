@@ -60,5 +60,5 @@ An instance of chrome should automatically open up. Google should automatically 
 WebDriver will then wait for 2 seconds; the document title is then accessed, and if it is "webdriver - Google Search", we will return a message to claim the test is passed. WebDriver will then close down the chrome instance and stop.
 It's like the computer is haunted....:scream_cat:
 Notice: Selenium Version: 3.4.0 (the newest release when i write this blog) does not go well with geckodriver when I run google_test.js.
-The issue is fixed but seems to be not released yet. So I'm **not** gonna test any firefox examples right now. See the link of this issue:<br>https://github.com/SeleniumHQ/selenium/issues/4041
+The issue is fixed but seems to be not released yet. So I'm **not** gonna test any firefox examples right now. See the link of this issue:<br>https://github.com/SeleniumHQ/selenium/issues/4041<br>
 6. create another file in the same project folder (name: google_test_multiple.js).
