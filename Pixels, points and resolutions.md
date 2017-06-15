@@ -53,3 +53,4 @@ DPI = (number of pixels across the screen) / (width in inch)
 
 ### - Density Independent Pixels (A similarly abstract measurement for Android)
 简写成DIP或者DP，与point差不多，是安卓自己定义的逻辑像素，都是抽象的，都是virtual pixel units。
+> ![pixel-comparison](pics/pixelCom2.png)
