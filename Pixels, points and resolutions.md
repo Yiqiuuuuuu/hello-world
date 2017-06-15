@@ -44,9 +44,9 @@ DPI = (number of pixels across the screen) / (width in inch)
 > ![pixel-comparison](pics/pixelcomparison.png)
 
 也就是说point是苹果公司自己给出的逻辑像素单位。1 pixel就是1 pixel，它是一个不变的单位，而point是一个相对单位，取决于DPI。
-举例来说，对于以前那些老的iPhone，它们的像素密度是163DPI，那么point = 1 pixel。
+举例来说，对于以前那些老的iPhone，它们的像素密度是163DPI，那么1 point = 1 pixel。
 像iPhone4,5，6， 它们的像素密度达到了326DPI，此时 1point = 4 pixels。
-箱iPhone6+, 1 point = 9 pixels。
+像iPhone6+, 1 point = 9 pixels。
 
 > iPhone 3gs的屏幕像素是320x480，iPhone 4s的屏幕像素是640x960。刚好两倍，然而两款手机都是3.5英寸的。
 > ![pixel-comparison](pics/pixelCom.png)
